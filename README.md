@@ -1,14 +1,8 @@
-#  SUJOY BEHERA
+⚡ SUJOY BEHERA
 
-<p align="center">
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=BUILDING+SKILLS.+BUILDING+FUTURE.;DSA+%7C+JAVA+BACKEND+%7C+SOFTWARE+ENGINEERING;CODE+%E2%80%A2+LEARN+%E2%80%A2+BUILD+%E2%80%A2+REPEAT" /> </p>
 
-`CSE STUDENT`  •  `DSA`  •  `JAVA BACKEND`
-
-### BUILDING SKILLS. BUILDING FUTURE.
-
-`CODE` • `LEARN` • `BUILD` • `REPEAT`
-
-</p>
+<p align="center"> <i>Turning problems into solutions, one commit at a time.</i> </p>
 
 ---
 
