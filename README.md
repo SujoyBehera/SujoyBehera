@@ -51,10 +51,9 @@ Core       → DSA • OOP • Problem Solving
 Backend    → JDBC • REST APIs • Spring Boot
 Database   → MySQL
 Tools      → Git • GitHub • Linux
-<p align="center">
+
 
 CODE • LEARN • BUILD • REPEAT
 
 Consistency today → Impact tomorrow. 🚀
 
-</p> ```
