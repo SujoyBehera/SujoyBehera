@@ -14,58 +14,47 @@
 
 🌐 Frontend         ⏸ ON HOLD
 🖥️ Operating Sys.   ⏸ ON HOLD
-```
+🧩 DSA PROGRESS
 
----
+60 / 474 problems solved — 13%
 
-## 🧩 `DSA PROGRESS`
-
-**56 / 474 problems solved — 12%**
-
-```text
-Easy      54 / 152
-Medium     2 / 186
+Easy      57 / 152
+Medium     3 / 186
 Hard       0 / 136
 
 Basics    49 / 54
-Sorting    3 / 7
-Arrays     4 / 40
-```
+Sorting    4 / 7
+Arrays     7 / 40
 
-**Roadmap:**
-`Binary Search → Strings → Linked Lists → Recursion → Trees → Graphs → DP`
+Roadmap:
+Basics → Sorting → Arrays → Binary Search → Strings → Linked Lists → Recursion → Trees → Graphs → DP
 
----
+☕ JAVA BACKEND
+Java → OOP → SQL → JDBC → REST APIs → Spring Boot → Projects
 
-## ☕ `JAVA BACKEND`
+Currently strengthening Java + OOP before moving deeper into backend development.
 
-```text
-Java → SQL → JDBC → REST APIs → Spring Boot → Projects
-```
+🚀 PROJECTS
 
-Currently strengthening **Java + OOP** before moving deeper into backend development.
+🎓 Student Management System
+C++ • OOP
 
----
+🔐 SecureHex
+Java • OOP • GUI • Database
 
-## 🚀 `PROJECTS`
+🌐 Portfolio
+HTML • CSS
 
-**🎓 Student Management System**
-`C++ • OOP`
-
-**🔐 SecureHex**
-`Java • OOP • GUI • Database`
-
-**🌐 Portfolio**
-`HTML • CSS`
-
----
-
+🛠️ TECH STACK
+Languages  → C++ • Java • SQL
+Core       → DSA • OOP • Problem Solving
+Backend    → JDBC • REST APIs • Spring Boot
+Database   → MySQL
+Tools      → Git • GitHub • Linux
 <p align="center">
 
-`CODE • LEARN • BUILD • REPEAT`
+CODE • LEARN • BUILD • REPEAT
 
-**Consistency today → Impact tomorrow. 🚀**
+Consistency today → Impact tomorrow. 🚀
 
-</p>
-
-
+</p> ```
