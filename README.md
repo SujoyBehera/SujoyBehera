@@ -37,7 +37,7 @@ Roadmap: Basics → Sorting → Arrays → Binary Search → Strings → Linked 
 
 **Repository:** [SujoyBehera/python-backend-ai](https://github.com/SujoyBehera/python-backend-ai)
 
-- **Phase 1 (In Progress):** Python 3.12 Foundations, OOP, `pytest`, HTTP (`requests`) & CLI Data Processing *(Passed Exam 1: 9.5/10)*
+- **Phase 1 (In Progress):** Python 3.12 Foundations, OOP, `pytest`, HTTP (`requests`) & CLI Data Processing 
 - **Phase 2 (Next):** FastAPI, Pydantic v2 Validation, REST CRUD Architecture & `TestClient`
 - **Phase 3:** Raw SQL, PostgreSQL, SQLAlchemy 2.0, JWT Auth, Docker & Cloud Deployment
 - **Phase 4:** Applied AI Engineering (Gemini SDK, Structured Outputs, `pgvector` RAG & Tool-Calling Agents)
@@ -50,8 +50,6 @@ Roadmap: Basics → Sorting → Arrays → Binary Search → Strings → Linked 
   Desktop application for secure credential management demonstrating authentication, OOP design, and database integration.
 - 🎓 **[Student Management System](https://github.com/SujoyBehera/Student-Management-System-CPP)** — *C++ • OOP*  
   Console-based student record management system built using Object-Oriented C++ principles.
-- 🤝 **[ProjectMatch](https://github.com/SujoyBehera/ProjectMatch)** — *Java*  
-  Platform designed for college students to discover teammates and collaborate on technical projects.
 
 ---
 
