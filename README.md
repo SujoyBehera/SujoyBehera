@@ -1,7 +1,7 @@
 # ⚡ SUJOY BEHERA
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=B.TECH+CSE+%40+SRM+KTR+'28;C%2B%2B+DSA+%7C+PYTHON+BACKEND+%26+AI+ENGINEERING;CODE+%E2%80%A2+TEST+%E2%80%A2+SHIP+%E2%80%A2+REPEAT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=B.TECH+CSE+%40+SRM+KTR+'29;C%2B%2B+DSA+%7C+PYTHON+BACKEND+%26+AI+ENGINEERING;CODE+%E2%80%A2+TEST+%E2%80%A2+SHIP+%E2%80%A2+REPEAT" alt="Typing SVG" />
 </p>
 
 <p align="center"><i>Turning problems into working software, one commit at a time.</i></p>
