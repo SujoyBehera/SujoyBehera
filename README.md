@@ -1,59 +1,67 @@
-⚡ SUJOY BEHERA
+# ⚡ SUJOY BEHERA
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=BUILDING+SKILLS.+BUILDING+FUTURE.;DSA+%7C+JAVA+BACKEND+%7C+SOFTWARE+ENGINEERING;CODE+%E2%80%A2+LEARN+%E2%80%A2+BUILD+%E2%80%A2+REPEAT" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=B.TECH+CSE+%40+SRM+KTR+'28;C%2B%2B+DSA+%7C+PYTHON+BACKEND+%26+AI+ENGINEERING;CODE+%E2%80%A2+TEST+%E2%80%A2+SHIP+%E2%80%A2+REPEAT" alt="Typing SVG" />
+</p>
 
-<p align="center"> <i>Turning problems into solutions, one commit at a time.</i> </p>
+<p align="center"><i>Turning problems into working software, one commit at a time.</i></p>
 
 ---
 
 ## 🎯 `CURRENT FOCUS`
 
 ```text
-🧠 DSA             ████████████░░░░   ACTIVE
-☕ Java Backend     ████░░░░░░░░░░░   LEARNING
+🧠 DSA (C++)              ████████████░░░░   ACTIVE (Daily Practice)
+🐍 Python Backend & AI    ████░░░░░░░░░░░░   ACTIVE (Module 1.2 — Local Tooling & OOP)
+🗄️ SQL & PostgreSQL       ██░░░░░░░░░░░░░░   UPCOMING (Phase 3)
+```
 
-🌐 Frontend         ⏸ ON HOLD
-🖥️ Operating Sys.   ⏸ ON HOLD
-🧩 DSA PROGRESS
+---
 
-60 / 474 problems solved — 13%
+## 🧩 `DSA PROGRESS (C++)`
 
-Easy      57 / 152
-Medium     3 / 186
-Hard       0 / 136
+**Repository:** [SujoyBehera/leetcode-sols](https://github.com/SujoyBehera/leetcode-sols)
 
-Basics    49 / 54
-Sorting    4 / 7
-Arrays     7 / 40
+```text
+Solved: 60+ Problems (Striver A2Z Sheet)
+├── Basics & Math   ██████████████░░  49 / 54
+├── Sorting         █████████░░░░░░░   4 / 7
+└── Arrays          ███░░░░░░░░░░░░░   7 / 40
 
-Roadmap:
-Basics → Sorting → Arrays → Binary Search → Strings → Linked Lists → Recursion → Trees → Graphs → DP
+Roadmap: Basics → Sorting → Arrays → Binary Search → Strings → Linked Lists → Recursion → Trees → Graphs → DP
+```
 
-☕ JAVA BACKEND
-Java → OOP → SQL → JDBC → REST APIs → Spring Boot → Projects
+---
 
-Currently strengthening Java + OOP before moving deeper into backend development.
+## 🐍 `BACKEND & AI ENGINEERING ROADMAP`
 
-🚀 PROJECTS
+**Repository:** [SujoyBehera/python-backend-ai](https://github.com/SujoyBehera/python-backend-ai)
 
-🎓 Student Management System
-C++ • OOP
+- **Phase 1 (In Progress):** Python 3.12 Foundations, OOP, `pytest`, HTTP (`requests`) & CLI Data Processing *(Passed Exam 1: 9.5/10)*
+- **Phase 2 (Next):** FastAPI, Pydantic v2 Validation, REST CRUD Architecture & `TestClient`
+- **Phase 3:** Raw SQL, PostgreSQL, SQLAlchemy 2.0, JWT Auth, Docker & Cloud Deployment
+- **Phase 4:** Applied AI Engineering (Gemini SDK, Structured Outputs, `pgvector` RAG & Tool-Calling Agents)
 
-🔐 SecureHex
-Java • OOP • GUI • Database
+---
 
-🌐 Portfolio
-HTML • CSS
+## 🚀 `PROJECTS`
 
-🛠️ TECH STACK
-Languages  → C++ • Java • SQL
-Core       → DSA • OOP • Problem Solving
-Backend    → JDBC • REST APIs • Spring Boot
-Database   → MySQL
-Tools      → Git • GitHub • Linux
+- 🔐 **[SecureHex](https://github.com/SujoyBehera/SecureHex)** — *Java • OOP • GUI • Database*  
+  Desktop application for secure credential management demonstrating authentication, OOP design, and database integration.
+- 🎓 **[Student Management System](https://github.com/SujoyBehera/Student-Management-System-CPP)** — *C++ • OOP*  
+  Console-based student record management system built using Object-Oriented C++ principles.
+- 🤝 **[ProjectMatch](https://github.com/SujoyBehera/ProjectMatch)** — *Java*  
+  Platform designed for college students to discover teammates and collaborate on technical projects.
 
+---
 
-CODE • LEARN • BUILD • REPEAT
+## 🛠️ `TECH STACK & TOOLS`
 
-Consistency today → Impact tomorrow. 🚀
+- **Languages:** C++ (DSA & OOP), Python 3.12, Java, HTML/CSS
+- **Testing & Quality:** `pytest`, `assert`-driven verification
+- **Developer Workflow:** Git, GitHub, Virtual Environments (`venv`), VS Code, Windows PowerShell / Linux CLI
+
+---
+
+<p align="center"><b>Consistency today → Impact tomorrow. 🚀</b></p>
 
