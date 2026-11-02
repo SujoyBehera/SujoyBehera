@@ -61,5 +61,5 @@ Roadmap: Basics → Sorting → Arrays → Binary Search → Strings → Linked 
 
 ---
 
-<p align="center"><b>Consistency today → Impact tomorrow. 🚀</b></p>
+<p align="center"><b>Consistency today → Impact tomorrow.</b></p>
 
