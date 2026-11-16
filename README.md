@@ -9,20 +9,8 @@
 ---
 
 ## 🎯 `CURRENT FOCUS`
-
-## 🧩 `DSA PROGRESS (C++)`
-
+---
 **Repository:** [SujoyBehera/leetcode-sols](https://github.com/SujoyBehera/leetcode-sols)
-
-```text
-Solved: 60+ Problems (Striver A2Z Sheet)
-├── Basics & Math   ██████████████░░  49 / 54
-├── Sorting         █████████░░░░░░░   4 / 7
-└── Arrays          ███░░░░░░░░░░░░░   7 / 40
-
-Roadmap: Basics → Sorting → Arrays → Binary Search → Strings → Linked Lists → Recursion → Trees → Graphs → DP
-```
-
 ---
 
 ## 🐍 `BACKEND & AI ENGINEERING ROADMAP`
