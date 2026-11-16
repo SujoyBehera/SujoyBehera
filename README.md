@@ -10,14 +10,6 @@
 
 ## 🎯 `CURRENT FOCUS`
 
-```text
-🧠 DSA (C++)              ████████████░░░░   ACTIVE (Daily Practice)
-🐍 Python Backend & AI    ████░░░░░░░░░░░░   ACTIVE (Module 1.2 — Local Tooling & OOP)
-🗄️ SQL & PostgreSQL       ██░░░░░░░░░░░░░░   UPCOMING (Phase 3)
-```
-
----
-
 ## 🧩 `DSA PROGRESS (C++)`
 
 **Repository:** [SujoyBehera/leetcode-sols](https://github.com/SujoyBehera/leetcode-sols)
