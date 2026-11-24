@@ -80,7 +80,7 @@
   <g transform="translate(520, 134)">
     <rect x="0" y="0" width="26" height="26" rx="6" fill="#062825" stroke="#115e59" stroke-width="1"/>
     <path d="M5.5 16.5l4.2-4.5 3.3 3 5.5-6.5M15 8.5h3.5V12" stroke="#2dd4bf" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="38" y="18" fill="#f8fafc" font-size="15.5" font-weight="700" class="sans">252 <tspan fill="#94a3b8" font-weight="500">Contributions</tspan></text>
+    <text x="38" y="18" fill="#f8fafc" font-size="15.5" font-weight="700" class="sans">253 <tspan fill="#94a3b8" font-weight="500">Contributions</tspan></text>
   </g>
 
   <g transform="translate(520, 176)">
